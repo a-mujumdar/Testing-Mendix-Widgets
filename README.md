@@ -1,6 +1,6 @@
 # Mendix platform
 
-Apps can be created using Mendix. It is the front end for any back-end. 
+Mobile and web applications can be created using Mendix. It is the front end for any back-end. 
 
 I integrated Mendix with MS-SQL database as well as Oracle (Big-data lake). Tested data base connection functionality at the back-end by creating microflows and tested different widgets such as buttons, drop-down, date-time widget, navigation etc.. on the front-end webpage. 
 
